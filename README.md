@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name: SANGAVI SURESH
 
-### Register Number:
+### Register Number: 212222230130
 
 ```python
 class CNNClassifier(nn.Module):
